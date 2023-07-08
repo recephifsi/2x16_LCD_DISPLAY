@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# My files
+*.s
+*.dep
+*.ewd
+*.ewp
+*.ewt
+*.eww
